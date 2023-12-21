@@ -25,12 +25,12 @@
     ''' </summary>
     Private Sub InitializeComponent()
         Me.SuspendLayout()
-        ' 
-        ' Form1
-        ' 
-        Me.AutoScaleDimensions = New SizeF(6.0F, 13.0F)
-        Me.AutoScaleMode = AutoScaleMode.Font
-        Me.ClientSize = New Size(632, 278)
+        '
+        'Form1
+        '
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
+        Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.ClientSize = New System.Drawing.Size(632, 278)
         Me.Name = "Form1"
         Me.Text = "Form1"
         Me.ResumeLayout(False)
